@@ -13,8 +13,9 @@ A la hora de probar la página web, en la carpeta sql están las sentencias mín
 La tabla de usuarios no tiene datos de prueba. Para probar el usuario administrador, tan solo con crear un usuario llamado admin es más que suficiente.
 
 ## Vista previa
-![alt text][https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/1.PNG]
-![alt text][https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/2.PNG]
-![alt text][https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/3.PNG]
-![alt text][https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/4.PNG]
-![alt text][https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/5.PNG]
+![alt text](https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/1.PNG)
+![alt text](https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/2.PNG)
+![alt text](https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/3.PNG)
+![alt text](https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/4.PNG)
+![alt text](https://github.com/fulcrum44/DAM-2026-TravelAgency-Chicano/blob/main/app/assets/repo_images/5.PNG)
+
