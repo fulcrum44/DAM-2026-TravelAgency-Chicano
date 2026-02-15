@@ -32,6 +32,7 @@ try {
     <meta charset="UTF-8">
     <title><?= $viaje['titulo'] ?> - Dodo Travel</title>
     <link rel="stylesheet" href="../assets/styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=search" />  
 </head>
 <body>
     <?php include '../vistas/header_no_summary.php' ?>
